@@ -12,3 +12,10 @@ Add tips for vim(on Archlinux) :
 | nerdtree | vim-nerdtree    | pacman  -S vim-nerdtree |
 | plug     | vim-plug        | paru -S vim-plug        |
 
+***
+
+On 30th Oct, I add more configurations for this repository. At this time, I try to use wayfire and I modified their configurations.  
+
+Add tips for wayfire(or waybar):
+
+waybar need fonts for it's icons such as `nerd-fonts-inconsolata-lgc` 
