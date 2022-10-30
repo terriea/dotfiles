@@ -18,4 +18,4 @@ On 30th Oct, I add more configurations for this repository. At this time, I try 
 
 Add tips for wayfire(or waybar):
 
-waybar need fonts for it's icons such as `nerd-fonts-inconsolata-lgc` 
+waybar need fonts for it's icons such as `nerd-fonts-inconsolata` 
