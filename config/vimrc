@@ -17,3 +17,10 @@ set relativenumber
 syntax on
 set tabstop=2
 set autoindent
+" Automatic symbol completion
+inoremap ' ''<ESC>i
+inoremap " ""<ESC>i
+inoremap ( ()<ESC>i
+inoremap [ []<ESC>i
+inoremap { {<CR>}<ESC>O
+inoremap < <><ESC>i
