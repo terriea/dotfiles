@@ -7,10 +7,11 @@ Add tips for vim(on Archlinux) :
 
 | name     | full-name       | command                 |
 | -------- | --------------- | ----------------------- |
-| gruvbox  | vim-gruvbox-git | paru -S vim-gruvbox-git |
+| gruvbox  | vim-gruvbox-git | paru vim-gruvbox-git |
 | airline  | vim-airline     | pacman -S vim-airline   |
 | nerdtree | vim-nerdtree    | pacman  -S vim-nerdtree |
-| plug     | vim-plug        | paru -S vim-plug        |
+| plug     | vim-plug        | paru vim-plug        |
+|markdown-preview| vim-markdown-preview-git| paru vim-markdown-preview-git|
 
 ***
 
