@@ -15,7 +15,7 @@ nnoremap <Leader>n :MarkdownPreviewStop<CR>
 set nu
 set relativenumber
 syntax on
-set tabstop=2
+set tabstop=4
 set autoindent
 " Automatic symbol completion
 inoremap ' ''<ESC>i
