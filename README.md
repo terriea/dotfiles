@@ -20,3 +20,10 @@ On 30th Oct, I add more configurations for this repository. At this time, I try 
 Add tips for wayfire(or waybar):
 
 waybar need fonts for it's icons such as `nerd-fonts-inconsolata` 
+
+2023/11/25
+
+***
+
+我尝试使用hyprland,并且将我的配置保存
+I try hyprland today, and send my config to this repo
