@@ -21,9 +21,19 @@ Add tips for wayfire(or waybar):
 
 waybar need fonts for it's icons such as `nerd-fonts-inconsolata` 
 
+***
+
 2023/11/25
+
+
+我尝试使用hyprland,并且将我的配置保存
+
+I try hyprland today, and send my config to this repo
 
 ***
 
-我尝试使用hyprland,并且将我的配置保存
-I try hyprland today, and send my config to this repo
+2023/11/26
+
+我放弃了kitty并且使用了alacritty,这样我就可以利用上我以前的配置了。
+
+I give up kitty today and return to alacritty. So I can use my alacritty config.
