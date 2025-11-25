@@ -1,0 +1,19 @@
+# Alacritty 字体配置
+# 英文使用 JetBrainsMono NF，中文使用 Noto Sans Mono CJK SC
+
+[font]
+# 默认字体（英文）
+normal = { family = "JetBrainsMono NF", style = "Regular" }
+
+# 粗体
+bold = { family = "JetBrainsMono NF", style = "Bold" }
+
+# 斜体
+italic = { family = "JetBrainsMono NF", style = "Italic" }
+
+# 粗斜体
+bold_italic = { family = "JetBrainsMono NF", style = "Bold Italic" }
+
+# 字体大小
+size = 12.0
+

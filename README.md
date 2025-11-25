@@ -37,3 +37,9 @@ I try hyprland today, and send my config to this repo
 我放弃了kitty并且使用了alacritty,这样我就可以利用上我以前的配置了。
 
 I give up kitty today and return to alacritty. So I can use my alacritty config.
+
+***
+
+2025/11/25
+
+许久不用Linux，今天把一些东西更新一下。
